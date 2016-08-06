@@ -10,6 +10,8 @@ Working directory contains all of my files for the project. I can add select fil
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+Here is a change.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
