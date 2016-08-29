@@ -1,12 +1,12 @@
 When would you want to use a remote repository rather than keeping all your work
 local?
 
-If I wanted to share my work publically, if I am working with distributed contributors, or if I use more than one workstation to work from. Gives me the power to not be constrained by a single physical device.
+If I wanted to share my work publicly, if I am working with distributed contributors, or if I use more than one workstation to work from. Gives me the power to not be constrained by a single physical device.
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+Automatic pulls will reduce control, while also potentially causing the pull of unwanted or incomplete features.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
