@@ -11,7 +11,7 @@ Automatic pulls will reduce control, while also potentially causing the pull of 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+    Cloning is taking a copy of a repository onto my local machine. A branch is a divergence of the master repository code for working on new features or bugs. A fork is a github-only concept that is effectively the same as cloning but with some additional features such as referencing back to the originator. As mentioned branching is best used to keep the local master clean until the time is ready to merge - it allows traceability through the commit log to show at which point the divergence took place.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
